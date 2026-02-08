@@ -67,7 +67,7 @@ main{
 
 main p{
     line-height: 100%;
-    font-size: calc(2px + 2vw);
+    font-size: calc(2px + 1.2vw);
     padding: 2%;
 }
 
@@ -78,8 +78,29 @@ main h3{
     color: maroon;
 }
 
-main img{
-    max-width: 40%;
+main h5{
+    font-size: calc(3px + 2.5vw);  
+    font-weight: bold;             
+    padding: 2% 1%;                
+    background-color: yellow;       
+}
+main h4{
+    font-size: calc(3px + 2.5vw);  
+    font-weight: bold;             
+    padding: 2% 1%;                
+    background-color: yellow;       
+}
+main h2{
+    font-size: calc(3px + 2.5vw);  
+    font-weight: bold;             
+    padding: 2% 1%;                
+    background-color: yellow;       
+}
+main h1{
+    font-size: calc(3px + 2.5vw);  
+    font-weight: bold;             
+    padding: 2% 1%;                
+    background-color: yellow;       
 }
 
 /*
