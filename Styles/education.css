@@ -89,7 +89,7 @@ main h2{
 }
 
 main p{
-    color: purple;
+    color: white;
     font-weight: bold;
     font-size: calc(2px + 1.2vw);
     
