@@ -52,7 +52,7 @@ main{
     padding: 1% 2%;
     /*at least 100vh*/
     height: 150vh;
-    background-color: wheat;
+    background-color: palevioletred;
     text-align: center;
     width: 70%;
 }
