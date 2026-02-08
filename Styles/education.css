@@ -80,25 +80,19 @@ main h5{
     padding: 2%;                
     background-color: lightseagreen;       
 }
-main h4{
-    font-size: calc(3px + 1.5vw);  
-    font-weight: bold;             
-    padding: 2%;                
-    background-color: lightseagreen;       
-}
+
 main h2{
     font-size: calc(2px + 2vw);
     font-weight: bold;             
     margin: 2% 0;                
     color: maroon;       
 }
-main h1{
-    font-size: calc(3px + 1.5vw);  
-    font-weight: bold;             
-    padding: 2% 1%;                
-    background-color: lightseagreen;       
-}
 
+main p{
+    color: darkkhaki;
+    font-weight: bold;
+    font-size: calc(2px + 1.2vw);
+}
 /*
     height and width: vw or vh
     margin and padding: %
