@@ -97,7 +97,7 @@ main li{
     font-weight: bold;
     font-size: calc(2px + 1.2vw);
     margin-bottom: 2%;  
-    line-height: 150%;  
+    line-height: 125%;  
 }
 /*
     height and width: vw or vh
