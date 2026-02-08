@@ -77,21 +77,22 @@ main h5{
     text-align: center;
     font-size: calc(3px + 1.5vw);  
     font-weight: bold;             
-    padding: 2%;                
+    padding: 3%;                
     background-color: lightseagreen;       
 }
 
 main h2{
     font-size: calc(2px + 2vw);
     font-weight: bold;             
-    margin: 2% 0;                
+    margin: 3% 0;                
     color: maroon;       
 }
 
 main p{
-    color: darkkhaki;
+    color: purple;
     font-weight: bold;
     font-size: calc(2px + 1.2vw);
+    padding: 1%;
 }
 /*
     height and width: vw or vh
