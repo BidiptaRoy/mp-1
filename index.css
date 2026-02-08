@@ -26,7 +26,7 @@ header{
 }
 
 nav{
-    background-color: antiquewhite;
+    background-color: darkslateblue;
     width: 30%;
 }
 
@@ -37,7 +37,7 @@ nav ul{
 
 nav li{
     width: 80%;
-    background-color:orange;
+    background-color: powderblue;
     padding: 1%;
     margin: 18% auto;
     text-align: center;
@@ -109,7 +109,8 @@ footer{
 }
 
 footer a{
-    color: bisque;
+    color: rgb(0, 136, 255);
+    /* the color was automatically an option that i can choose from in a color wheel i did not cheat! */
 }
 
 @media  screen and (max-width: 1000px) {
