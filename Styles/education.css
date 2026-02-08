@@ -74,7 +74,7 @@ main p{
 main h3{
     text-align: center;
     margin: 2% 0;
-    font-size: calc(2px + 2vw);
+    font-size: calc(2px + 2.3vw);
     color: brown;
 }
 
