@@ -75,32 +75,33 @@ main h3{
     text-align: center;
     margin: 2% 0;
     font-size: calc(2px + 2vw);
-    color: maroon;
+    color: brown;
 }
 
 main h5{
-    font-size: calc(3px + 2.5vw);  
+    text-align: center;
+    font-size: calc(3px + 1.5vw);  
     font-weight: bold;             
-    padding: 2% 1%;                
-    background-color: yellow;       
+    padding: 2%;                
+    background-color: lightseagreen;       
 }
 main h4{
-    font-size: calc(3px + 2.5vw);  
+    font-size: calc(3px + 1.5vw);  
     font-weight: bold;             
-    padding: 2% 1%;                
-    background-color: yellow;       
+    padding: 2%;                
+    background-color: lightseagreen;       
 }
 main h2{
-    font-size: calc(3px + 2.5vw);  
+    font-size: calc(3px + 1.5vw);  
     font-weight: bold;             
-    padding: 2% 1%;                
-    background-color: yellow;       
+    padding: 2%;                
+    background-color: lightseagreen;       
 }
 main h1{
-    font-size: calc(3px + 2.5vw);  
+    font-size: calc(3px + 1.5vw);  
     font-weight: bold;             
     padding: 2% 1%;                
-    background-color: yellow;       
+    background-color: lightseagreen;       
 }
 
 /*
